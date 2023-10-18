@@ -27,16 +27,16 @@ To run the backend server locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/project-square.git
+   https://github.com/siyamtanda/Project-Alpha.git
 
 
-1.N **avigate to the Backend Directory**
+1.N **Navigate to the Backend Directory**
 
-cd project-square/backend
+cd Project-Alph/server
 
 **Install dependencies**
 
-npm install
+npm install express mongoose cors nodemon axios
 
 **Start the Backend Server**
 
