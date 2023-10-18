@@ -32,7 +32,7 @@ To run the backend server locally, follow these steps:
 
 1.N **Navigate to the Backend Directory**
 
-cd Project-Alph/server
+cd Project-Alpha/server
 
 **Install dependencies**
 
